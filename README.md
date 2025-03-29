@@ -1,28 +1,26 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In order to further my learning, I have taken on the challenge of learning the basics of Kotlin.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+In this project, I got the basic functionality down for a task manager that allows the user to add, list, and remove tasks.
 
-{Describe your purpose for writing this software.}
+
+I created this project in order to facilitate my learning of Kotlin and it's basic aspects.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+IntelliJ IDE
 
-{Describe the programming language that you used and any libraries.}
+Kotlin
+KotlinJavaRuntime
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- Standard input: https://kotlinlang.org/docs/standard-input.html#read-from-the-standard-input-with-readln
+- Tutorial: Create your first Kotlin application: https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add JSON file and editing capabilities
+- Make it a visible web app
+- Add more choices
